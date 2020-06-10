@@ -22,14 +22,6 @@
 > Facenet is also mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.[link](https://sway.office.com/eDQI1VFHNFZ34TEU)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Other works  
 
 - [Marathi MoodBot](https://ajinkz.github.io/Marathi-MoodBot/)

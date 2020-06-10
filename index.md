@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Music Time plugin for Sublime Text](/https://github.com/swdotcom/swdc-sublime-music-time)
+[Music Time plugin for Sublime Text](https://github.com/swdotcom/swdc-sublime-music-time)
 > Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only
 
 ---

@@ -4,7 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Music Time plugin for Sublime Text](/https://github.com/swdotcom/swdc-sublime-music-time)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[House Price Prediction Dashboard](https://hpp-dash.herokuapp.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[FAQ Chatbot using RASA](https://www.youtube.com/watch?v=q901KMhQrsA)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Face Recognition system](https://www.youtube.com/watch?v=Eqp73OhVa94)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -31,5 +43,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+

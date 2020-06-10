@@ -5,23 +5,23 @@
 ### Projects
 
 [Music Time plugin for Sublime Text](/https://github.com/swdotcom/swdc-sublime-music-time)
+> Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [House Price Prediction Dashboard](https://hpp-dash.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+> Considering various features of house sale data, we build a predictive model using Gradient boosted regressor, which can estimate price of house.
 
 ---
 [FAQ Chatbot using RASA](https://www.youtube.com/watch?v=q901KMhQrsA)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+> A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems. 
 
 ---
 [Face Recognition system](https://www.youtube.com/watch?v=Eqp73OhVa94)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+> Facenet is also mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.[link](https://sway.office.com/eDQI1VFHNFZ34TEU)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

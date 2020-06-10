@@ -6,7 +6,6 @@
 
 [Music Time plugin for Sublime Text](/https://github.com/swdotcom/swdc-sublime-music-time)
 > Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [House Price Prediction Dashboard](https://hpp-dash.herokuapp.com/)
@@ -14,7 +13,9 @@
 
 ---
 [FAQ Chatbot using RASA](https://www.youtube.com/watch?v=q901KMhQrsA)
-> A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems. 
+> A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems.[link](http://infogen-labs.com/imgs/deep-learning/The_next_generation_chatbot_using_AI.pdf)
+
+[![Demo](/images/dummy_thumbnail.jpg)](https://www.youtube.com/watch?v=q901KMhQrsA)
 
 ---
 [Face Recognition system](https://www.youtube.com/watch?v=Eqp73OhVa94)

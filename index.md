@@ -50,11 +50,18 @@
 
 ---
 ### Experience
-
+| Organisation/Institute 	| Position held       	| From            	| To              	| Experience      	|
+|------------------------	|---------------------	|-----------------	|-----------------	|-----------------	|
+| Infogen-Labs Pvt. Ltd. 	| Software Engineer   	| October, 2018   	| June, 2020      	| 1 year 9 months 	|
+| Vuclip India Pvt. Ltd. 	| Data Analyst Intern 	| 10 July, 2018   	| 9 October, 2018 	| 3 months        	|
+| SGGS IET               	| Intern              	| 22nd June, 2015 	| 10th July, 2015 	| 3 weeks         	|
 
 ---
 ### Education
-
+| Qualification                               | Institute            | Percentage(%) | Year of Passing |
+|---------------------------------------------|----------------------|---------------|-----------------|
+| Post Graduate Diploma in Big Data Analytics | Know-IT, CDAC, Pune  | 72.88         | 2018            |
+| Bachelor of Engineering (I.T.)              | SSBT’s COET, Jalgaon | 62.90         | 2017            |
 
 ---
 ### Courses completed

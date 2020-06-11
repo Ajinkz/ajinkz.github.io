@@ -45,6 +45,9 @@
 - [Streamlit examples](https://ajinkz.github.io/Streamlit-example/)
 > List of useful components of streamlit framework with code snippets
 
+- [Spark on Windows](https://ajinkz.github.io/spark-on-windows-setup/)
+> Step by step guide to install spark cluster on windows machine
+
 
 ---
 

@@ -51,49 +51,47 @@
 ---
 ### Experience
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mz7n{background-color:#bde5f1;border-color:#000000;font-family:"Trebuchet MS", Helvetica, sans-serif !important;;
-  text-align:left;vertical-align:top}
-.tg .tg-bhiy{background-color:#ffc702;border-color:#000000;font-family:"Trebuchet MS", Helvetica, sans-serif !important;;
-  font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-u31g{background-color:#bde5f1;border-color:#000000;font-family:"Trebuchet MS", Helvetica, sans-serif !important;;
-  text-align:left;vertical-align:top}
+.tg .tg-pbhq{font-family:"Trebuchet MS", Helvetica, sans-serif !important;;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wz43{background-color:#D2E4FC;font-family:"Trebuchet MS", Helvetica, sans-serif !important;;text-align:left;
+  vertical-align:top}
+.tg .tg-zef7{font-family:"Trebuchet MS", Helvetica, sans-serif !important;;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-bhiy">Organisation/Institute</th>
-    <th class="tg-bhiy">Position held</th>
-    <th class="tg-bhiy">From</th>
-    <th class="tg-bhiy">To</th>
-    <th class="tg-bhiy">Experience</th>
+    <th class="tg-pbhq">Organisation/Institute</th>
+    <th class="tg-pbhq">Position held</th>
+    <th class="tg-pbhq">From</th>
+    <th class="tg-pbhq">To</th>
+    <th class="tg-pbhq">Experience</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mz7n">Infogen-Labs Pvt. Ltd.</td>
-    <td class="tg-mz7n">Software Engineer</td>
-    <td class="tg-mz7n">October, 2018</td>
-    <td class="tg-mz7n">June, 2020</td>
-    <td class="tg-mz7n">1 year 9 months</td>
+    <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
+    <td class="tg-wz43">Software Engineer</td>
+    <td class="tg-wz43">October, 2018</td>
+    <td class="tg-wz43">June, 2020</td>
+    <td class="tg-wz43">1 year 9 months</td>
   </tr>
   <tr>
-    <td class="tg-u31g">Vuclip India Pvt. Ltd.</td>
-    <td class="tg-u31g">Data Analyst Intern</td>
-    <td class="tg-u31g">10 July, 2018</td>
-    <td class="tg-u31g">9 October, 2018</td>
-    <td class="tg-u31g">3 months</td>
+    <td class="tg-zef7">Vuclip India Pvt. Ltd.</td>
+    <td class="tg-zef7">Data Analyst Intern</td>
+    <td class="tg-zef7">10 July, 2018</td>
+    <td class="tg-zef7">9 October, 2018</td>
+    <td class="tg-zef7">3 months</td>
   </tr>
   <tr>
-    <td class="tg-mz7n">SGGS IET</td>
-    <td class="tg-mz7n">Intern</td>
-    <td class="tg-mz7n">22nd June, 2015</td>
-    <td class="tg-mz7n">10th July, 2015</td>
-    <td class="tg-mz7n">3 weeks</td>
+    <td class="tg-wz43">SGGS IET</td>
+    <td class="tg-wz43">Intern</td>
+    <td class="tg-wz43">22nd June, 2015</td>
+    <td class="tg-wz43">10th July, 2015</td>
+    <td class="tg-wz43">3 weeks</td>
   </tr>
 </tbody>
 </table>

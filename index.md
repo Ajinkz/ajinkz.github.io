@@ -114,7 +114,7 @@
   <tr>
     <th class="tg-0pky">Qualification</th>
     <th class="tg-0pky">Institute</th>
-    <th class="tg-0pky">Percentage(%)</th>
+    <th class="tg-0pky">Percentage</th>
     <th class="tg-0pky">Year of Passing</th>
   </tr>
 </thead>

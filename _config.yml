@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/ajinkyanpathak/"><img src="https://img.shields.io/badge/-Linkedin%20profile-blue"/></a> 
   <br>
-  <a href="https://www.youracclaim.com/users/ajinkyanpathak/badges"><img src="https://img.shields.io/badge/-Acclaim%20badges-lightgrey"/></a> 
+  <a href="https://www.youracclaim.com/users/ajinkyanpathak/badges"><img src="https://img.shields.io/badge/-Acclaim%20badges-orange"/></a> 
   <br>
   <a href="https://public.tableau.com/profile/ajinkyapathak#!/"><img src="https://img.shields.io/badge/-Tableau%20profile-yellowgreen"/></a> 
   <br>
-  <a href="https://www.slideshare.net/slideshow/embed_code/key/sdbFJ7pdh0Wx9O"><img src="https://img.shields.io/badge/-Slideshare-9cf"/>Slide share</a> 
+  <a href="https://www.slideshare.net/slideshow/embed_code/key/sdbFJ7pdh0Wx9O"><img src="https://img.shields.io/badge/-Slideshare-green"/></a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

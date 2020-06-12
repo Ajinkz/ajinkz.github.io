@@ -14,12 +14,13 @@
 
 ---
 [FAQ Chatbot using RASA](https://www.youtube.com/watch?v=q901KMhQrsA)
-> A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems.[link](http://infogen-labs.com/imgs/deep-learning/The_next_generation_chatbot_using_AI.pdf)
+> A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems.[Article](http://infogen-labs.com/imgs/deep-learning/The_next_generation_chatbot_using_AI.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q901KMhQrsA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fni_IwS9gDo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 [Face Recognition system](https://www.youtube.com/watch?v=Eqp73OhVa94)
-> Facenet is also mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.[link](https://sway.office.com/eDQI1VFHNFZ34TEU)
+> Facenet is also mostly deployed with MTCNN (for face detection and alignment) which is computationally expensive, so instead we prefer to use Haar Cascade for face detection which saves a lot of excessive computation and avoids incorrect recognition of distant persons. Instead of looping through user data, creating embedding every time, we had serialized them which has reduced the recognition time significantly.[Article](https://sway.office.com/eDQI1VFHNFZ34TEU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eqp73OhVa94" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 ### Other works  

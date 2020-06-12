@@ -50,19 +50,85 @@
 
 ---
 ### Experience
-| Organisation/Institute 	| Position held       	| From            	| To              	| Experience      	|
-|------------------------	|---------------------	|-----------------	|-----------------	|-----------------	|
-| Infogen-Labs Pvt. Ltd. 	| Software Engineer   	| October, 2018   	| June, 2020      	| 1 year 9 months 	|
-| Vuclip India Pvt. Ltd. 	| Data Analyst Intern 	| 10 July, 2018   	| 9 October, 2018 	| 3 months        	|
-| SGGS IET               	| Intern              	| 22nd June, 2015 	| 10th July, 2015 	| 3 weeks         	|
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Organisation/Institute</th>
+    <th class="tg-1wig">Position held</th>
+    <th class="tg-1wig">From</th>
+    <th class="tg-1wig">To</th>
+    <th class="tg-1wig">Experience</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Infogen-Labs Pvt. Ltd.</td>
+    <td class="tg-0lax">Software Engineer</td>
+    <td class="tg-0lax">October, 2018</td>
+    <td class="tg-0lax">June, 2020</td>
+    <td class="tg-0lax">1 year 9 months</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Vuclip India Pvt. Ltd.</td>
+    <td class="tg-0lax">Data Analyst Intern</td>
+    <td class="tg-0lax">10 July, 2018</td>
+    <td class="tg-0lax">9 October, 2018</td>
+    <td class="tg-0lax">3 months</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SGGS IET</td>
+    <td class="tg-0lax">Intern</td>
+    <td class="tg-0lax">22nd June, 2015</td>
+    <td class="tg-0lax">10th July, 2015</td>
+    <td class="tg-0lax">3 weeks</td>
+  </tr>
+</tbody>
+</table>
 
 ---
 ### Education
-| Qualification                               | Institute            | Percentage(%) | Year of Passing |
-|---------------------------------------------|----------------------|---------------|-----------------|
-| Post Graduate Diploma in Big Data Analytics | Know-IT, CDAC, Pune  | 72.88         | 2018            |
-| Bachelor of Engineering (I.T.)              | SSBT’s COET, Jalgaon | 62.90         | 2017            |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lboi">Qualification</th>
+    <th class="tg-0pky">Institute</th>
+    <th class="tg-0pky">Percentage(%)</th>
+    <th class="tg-0pky">Year of Passing</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Post Graduate Diploma in Big Data Analytics</td>
+    <td class="tg-0pky">Know-IT, CDAC, Pune</td>
+    <td class="tg-0pky">72.88</td>
+    <td class="tg-0pky">2018</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bachelor of Engineering (I.T.)</td>
+    <td class="tg-0pky">SSBT’s COET, Jalgaon</td>
+    <td class="tg-0pky">62.90</td>
+    <td class="tg-0pky">2017</td>
+  </tr>
+</tbody>
+</table>
 ---
 ### Courses completed
 

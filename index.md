@@ -13,6 +13,7 @@
 [Dashboard link](https://hpp-dash.herokuapp.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <iframe width="560" height="315" src="/images/complete_dash.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ---
 [FAQ Chatbot](https://www.youtube.com/watch?v=q901KMhQrsA)
 > A chatbot that will handle FAQs. We used Rasa core and Rasa NLU which are open source python libraries for creating conversational software that helps in making machine-learning based dialogue management and natural language understanding systems.[Article](http://infogen-labs.com/imgs/deep-learning/The_next_generation_chatbot_using_AI.pdf)

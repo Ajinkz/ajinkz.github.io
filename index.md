@@ -137,5 +137,6 @@
 ---
 ### Courses completed
 
+---
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAjinkz%2Fajinkz.github.io%2Fhit-counter" alt="Hits">
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FAjinkz%2Fajinkz.github.io%2Fhit-counter)
+

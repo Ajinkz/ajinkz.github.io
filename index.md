@@ -134,12 +134,6 @@
 </tbody>
 </table>
 
----
-### Courses completed
-<details> 
-  		<summary>After passing the relevant unit tests, what is the validation code for Projection?</summary>
-   	Answer: 5a94762f949291c47fa6474d
-</details>
 
 ---
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAjinkz%2Fajinkz.github.io%2Fhit-counter" alt="Hits">

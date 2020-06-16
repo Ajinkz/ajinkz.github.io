@@ -41,9 +41,11 @@
 
 - [Elastic Stack Setup](https://ajinkz.github.io/Elastic-Stack-Setup/)
 > Steps for installation of Elastic stack on windows machine
+<iframe width="560" height="315" src="https://ajinkz.github.io/Elastic-Stack-Setup/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Elasticsearch: CRUD operations](https://ajinkz.github.io/CRUD-operations-Elasticsearch/)
 > CRUD operations using Elasticsearch restful APIs
+<iframe width="560" height="315" src="https://ajinkz.github.io/CRUD-operations-Elasticsearch/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Elasticsearch: Search-queries](https://ajinkz.github.io/Elasticsearch-search-queries/)
 > Search request APIs to search required data from indices of Elasticsearch
@@ -53,6 +55,7 @@
 
 - [Spark on Windows](https://ajinkz.github.io/spark-on-windows-setup/)
 > Step by step guide to install spark cluster on windows machine
+<iframe width="560" height="315" src="https://ajinkz.github.io/spark-on-windows-setup/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 ### Experience

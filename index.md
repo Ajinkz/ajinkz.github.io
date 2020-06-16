@@ -26,6 +26,9 @@
 ---
 ### Other works  
 
+- [Fake profile generator](https://ajinkz.github.io/fake-profile-generator/)
+> Simple code for scraping website for fake profile data generation
+
 - [Marathi MoodBot](https://ajinkz.github.io/Marathi-MoodBot/)
 > The project was a quick implementation of chatbot using the tensforflow embeddings. Though the language mentioned in config file is English but words are in Marathi langauge but written in English.
 

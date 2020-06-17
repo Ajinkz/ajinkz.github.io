@@ -28,11 +28,9 @@
 
 - [Fake profile generator](https://ajinkz.github.io/fake-profile-generator/)
 > Simple code for scraping website for fake profile data generation
-<iframe width="560" height="315" src="https://ajinkz.github.io/fake-profile-generator/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Marathi MoodBot](https://ajinkz.github.io/Marathi-MoodBot/)
 > The project was a quick implementation of chatbot using the tensforflow embeddings. Though the language mentioned in config file is English but words are in Marathi langauge but written in English.
-<iframe width="560" height="315" src="https://ajinkz.github.io/Marathi-MoodBot/" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Capture Crop Photo for Face recognition preprocessing](https://ajinkz.github.io/CaptureCropPhoto/)
 > A simple python code using in Face Recognition to capture photo using webcam, crop to image centered to face detected
@@ -42,11 +40,9 @@
 
 - [Elastic Stack Setup](https://ajinkz.github.io/Elastic-Stack-Setup/)
 > Steps for installation of Elastic stack on windows machine
-<iframe width="560" height="315" src="https://ajinkz.github.io/Elastic-Stack-Setup/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Elasticsearch: CRUD operations](https://ajinkz.github.io/CRUD-operations-Elasticsearch/)
 > CRUD operations using Elasticsearch restful APIs
-<iframe width="560" height="315" src="https://ajinkz.github.io/CRUD-operations-Elasticsearch/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Elasticsearch: Search-queries](https://ajinkz.github.io/Elasticsearch-search-queries/)
 > Search request APIs to search required data from indices of Elasticsearch
@@ -56,7 +52,6 @@
 
 - [Spark on Windows](https://ajinkz.github.io/spark-on-windows-setup/)
 > Step by step guide to install spark cluster on windows machine
-<iframe width="560" height="315" src="https://ajinkz.github.io/spark-on-windows-setup/" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 ### Experience

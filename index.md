@@ -28,7 +28,7 @@
 
 - [ImageBot](https://ajinkz.github.io/imagebot/)
 > A Telegram bot for searching image
-<iframe width="600" height="1300" src="/images/bot.gif" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="1200" src="/images/bot.gif" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - [Fake profile generator](https://ajinkz.github.io/fake-profile-generator/)
 > Simple code for scraping website for fake profile data generation

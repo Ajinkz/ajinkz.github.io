@@ -1,7 +1,9 @@
 ## Portfolio
+---
 
 ### About me
 <i>Being enthusiastic learner, interested in exploring new tech skills in Artificial Intelligence, working as a Software Engineer with PG Diploma in Big Data Analytics with ‘A’ grade from CDAC and almost 2 years of experience using Python, computer vision, machine learning, natural language process, end-to-end deployment.</i>
+
 ---
 
 ### Projects

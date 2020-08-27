@@ -3,16 +3,14 @@
 
 ### About me
 
-<details>
-  <summary>Responsibilities</summary>
-  <ul>Software Engineer and Python developer by profession</ul>
-  <ul> Working on projects mainly dealing with AI/ML/Data Science/Analytics</ul>
-  <ul>Perform EDA on client data, documenting the observation</ul>
-  <ul> Building dashboard using Dash & plotly BI tools</ul>
-  <ul> Deploying the model in the cloud, hosting web app for user interaction using Flask</ul>
-  <ul> Creating demonstrative POCs for ML models</ul>
-  <ul> Currently exploring knowledge over Deep learning and building end-to-end ML pipeline</ul>
-</details>
+#### Responsibilities
+- Software Engineer and Python developer by profession
+- Working on projects mainly dealing with AI/ML/Data Science/Analytics
+- Perform EDA on client data, documenting the observation
+- Building dashboard using Dash & plotly BI tools
+- Deploying the model in the cloud, hosting web app for user interaction using Flask
+- Creating demonstrative POCs for ML models
+- Currently exploring knowledge over Deep learning and building end-to-end ML pipeline
 
 #### IT Skills
 - Programming - Python, R

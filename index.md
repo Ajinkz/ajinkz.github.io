@@ -2,7 +2,30 @@
 ---
 
 ### About me
-<i>Being enthusiastic learner, interested in exploring new tech skills in Artificial Intelligence, working as a Software Engineer with PG Diploma in Big Data Analytics with ‘A’ grade from CDAC and almost 2 years of experience using Python, computer vision, machine learning, natural language process, end-to-end deployment.</i>
+#### Responsibilities
+- Software Engineer and Python developer by profession
+- Working on projects mainly dealing with AI/ML/Data Science/Analytics
+- Perform EDA on client data, documenting the observation
+- Building dashboard using Dash & plotly BI tools
+- Deploying the model in the cloud, hosting web app for user interaction using Flask
+- Creating demonstrative POCs for ML models
+- Currently exploring knowledge over Deep learning and building end-to-end ML pipeline
+
+#### IT Skills
+- Programming - Python, R
+- OS - Windows, Linux(Ubuntu, Centos )
+- Database Knowledge of SQL along with joins, subqueries, views,
+- NoSQL database like MongoDB
+- Search engine Elasticsearch
+- Data Analytics - EDA using R & Python (Pandas, Numpy, etc.)
+- Data Visualization - Tableau, Power BI, Python(Matplotlib,seaborn,plotly,dash), ggplot,
+- Machine Learning - Worked with various ML algorithm, prediction based projects, perform ensemble modelling
+- NLP - Building chatbot using Dialogflow, Rasa NLU, chatterbot
+- Web Development - Flask, Dash, Django, Streamlit
+- Cloud Computing - Basic services & deployment of models on AWS
+- Project methodology- Agile, Kanban
+- Version control - Github, Bit bucket
+- Tools/IDE - Jupyter lab/notebook, VS Code, Sublime, Postman
 
 ---
 

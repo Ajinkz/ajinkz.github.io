@@ -3,13 +3,17 @@
 
 ### About me
 #### Responsibilities
-- Software Engineer and Python developer by profession
-- Working on projects mainly dealing with AI/ML/Data Science/Analytics
-- Perform EDA on client data, documenting the observation
-- Building dashboard using Dash & plotly BI tools
-- Deploying the model in the cloud, hosting web app for user interaction using Flask
-- Creating demonstrative POCs for ML models
-- Currently exploring knowledge over Deep learning and building end-to-end ML pipeline
+<details>
+  <summary>Responsibilities</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+<p>Software Engineer and Python developer by profession</p>
+<p>Working on projects mainly dealing with AI/ML/Data Science/Analytics</p>
+<p>Perform EDA on client data, documenting the observation</p>
+<p>Building dashboard using Dash & plotly BI tools</p>
+<p>Deploying the model in the cloud, hosting web app for user interaction using Flask</p>
+<p>Creating demonstrative POCs for ML models</p>
+<p>Currently exploring knowledge over Deep learning and building end-to-end ML pipeline</p>
+</details>
 
 #### IT Skills
 - Programming - Python, R

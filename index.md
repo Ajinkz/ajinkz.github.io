@@ -4,7 +4,7 @@
 ### About me
 
 #### Responsibilities
-- Software Engineer and Python developer by profession
+- 2+ years of experiences as Software Engineer/Python developer
 - Working on projects mainly dealing with AI/ML/Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools
@@ -101,7 +101,7 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-pbhq">Organisation/Institute</th>
+    <th class="tg-pbhq">Organisation</th>
     <th class="tg-pbhq">Position held</th>
     <th class="tg-pbhq">From</th>
     <th class="tg-pbhq">To</th>
@@ -113,8 +113,8 @@
     <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
     <td class="tg-wz43">Software Engineer</td>
     <td class="tg-wz43">October, 2018</td>
-    <td class="tg-wz43">August, 2020</td>
-    <td class="tg-wz43">1 year 11 months</td>
+    <td class="tg-wz43">September, 2020</td>
+    <td class="tg-wz43">2 years</td>
   </tr>
   <tr>
     <td class="tg-zef7">Vuclip India Pvt. Ltd.</td>

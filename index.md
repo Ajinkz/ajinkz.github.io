@@ -61,7 +61,7 @@
 - [Fake profile generator](https://ajinkz.github.io/fake-profile-generator/)
 > Simple code for scraping website for fake profile data generation
 
-- [Rasa cheatsheet)](https://github.com/Ajinkz/rasa-chatbot-framework-cmds)
+- [Rasa cheatsheet](https://github.com/Ajinkz/rasa-chatbot-framework-cmds)
 > Quick guide for rasa chatbot framework file structure and command list
 
 - [Marathi MoodBot](https://ajinkz.github.io/Marathi-MoodBot/)

@@ -138,7 +138,7 @@
   </tr>
   <tr>
     <td class="tg-wz43">SGGS IET</td>
-    <td class="tg-wz43">Intern</td>
+    <td class="tg-wz43">Intern (CVPR)</td>
     <td class="tg-wz43">22nd June, 2015</td>
     <td class="tg-wz43">10th July, 2015</td>
     <td class="tg-wz43">3 weeks</td>

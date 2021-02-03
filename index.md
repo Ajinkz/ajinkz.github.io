@@ -126,8 +126,8 @@
     <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
     <td class="tg-wz43">Software Engineer (AI domain)</td>
     <td class="tg-wz43">October, 2018</td>
-    <td class="tg-wz43">January, 2021</td>
-    <td class="tg-wz43">2.4 years</td>
+    <td class="tg-wz43">February, 2021</td>
+    <td class="tg-wz43">2.5 years</td>
   </tr>
   <tr>
     <td class="tg-zef7">Vuclip India Pvt. Ltd.</td>

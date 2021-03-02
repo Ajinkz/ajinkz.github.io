@@ -46,7 +46,7 @@
 > Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only
 
 ---
-[House Price Prediction Dashboard](https://hpp-dash.herokuapp.com/)
+[House Price Prediction Dashboard](https://github.com/Ajinkz/hpp-dashboard)
 > Considering various features of house sale data, we build a predictive model using Gradient boosted regressor, which can estimate price of house.
 [Dashboard link](https://hpp-dash.herokuapp.com/)
 <iframe width="560" height="315" src="/images/complete_dash.mp4" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>

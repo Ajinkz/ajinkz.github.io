@@ -126,7 +126,7 @@
     <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
     <td class="tg-wz43">Software Engineer (AI domain)</td>
     <td class="tg-wz43">October, 2018</td>
-    <td class="tg-wz43">March, 2021</td>
+    <td class="tg-wz43">April, 2021</td>
     <td class="tg-wz43">2.6 years</td>
   </tr>
   <tr>

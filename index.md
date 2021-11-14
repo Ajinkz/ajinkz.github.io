@@ -14,7 +14,7 @@
 ### About me
 
 #### Responsibilities
-- 2.5+ years of experiences as Software Engineer/Python developer
+- 3 years of experiences as Software Engineer/Python developer
 - Working on projects mainly dealing with AI/ML/Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools

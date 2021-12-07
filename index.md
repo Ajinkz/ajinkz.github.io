@@ -122,6 +122,13 @@
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-wz43">S G Analytics Pvt. Ltd.</td>
+    <td class="tg-wz43">Data Engineer</td>
+    <td class="tg-wz43">May, 2021</td>
+    <td class="tg-wz43">December, 2021</td>
+    <td class="tg-wz43">8 months</td>
+  </tr>
   <tr>
     <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
     <td class="tg-wz43">Sr. Software Engineer (AI domain)</td>

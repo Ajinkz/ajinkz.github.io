@@ -14,7 +14,7 @@
 ### About me
 
 #### Responsibilities
-- 3 years of experiences as Software Engineer/Python developer
+- 4+ years of experiences as Software Engineer/Python developer
 - Working on projects mainly dealing with AI/ML/Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools
@@ -25,15 +25,15 @@
 #### IT Skills
 - Programming - Python, R
 - OS - Windows, Linux(Ubuntu, Centos )
-- Database Knowledge of SQL along with joins, subqueries, views,
-- NoSQL database like MongoDB
+- Database Knowledge of SQL along with joins, subqueries, views, 
+- NoSQL database like MongoDB, Cosmos DB
 - Search engine Elasticsearch
 - Data Analytics - EDA using R & Python (Pandas, Numpy, etc.)
 - Data Visualization - Tableau, Power BI, Python(Matplotlib,seaborn,plotly,dash), ggplot,
 - Machine Learning - Worked with various ML algorithm, prediction based projects, perform ensemble modelling
 - NLP - Building chatbot using Dialogflow, Rasa NLU, chatterbot
 - Web Development - Flask, Dash, Django, Streamlit
-- Cloud Computing - Basic services & deployment of models on AWS
+- Cloud Computing - Basic services & deployment of models on AWS, Azure stack: Azure function, azure devops
 - Project methodology- Agile, Kanban
 - Version control - Github, Bit bucket
 - Tools/IDE - Jupyter lab/notebook, VS Code, Sublime, Postman
@@ -118,37 +118,38 @@
     <th class="tg-pbhq">Position held</th>
     <th class="tg-pbhq">From</th>
     <th class="tg-pbhq">To</th>
-    <th class="tg-pbhq">Experience</th>
   </tr>
 </thead>
 <tbody>
-    <tr>
+  <tr>
+    <td class="tg-wz43">Tata Consultancy Services</td>
+    <td class="tg-wz43">Backend Developer</td>
+    <td class="tg-wz43">March, 2022 onwards</td>
+    <td class="tg-wz43"> - </td>
+  </tr>
+  <tr>
     <td class="tg-wz43">S G Analytics Pvt. Ltd.</td>
     <td class="tg-wz43">Data Engineer</td>
     <td class="tg-wz43">May, 2021</td>
-    <td class="tg-wz43">December, 2021</td>
-    <td class="tg-wz43">8 months</td>
+    <td class="tg-wz43">February, 2022</td>
   </tr>
   <tr>
     <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
     <td class="tg-wz43">Sr. Software Engineer (AI domain)</td>
     <td class="tg-wz43">October, 2018</td>
     <td class="tg-wz43">April, 2021</td>
-    <td class="tg-wz43">2.7 years</td>
   </tr>
   <tr>
     <td class="tg-zef7">Vuclip India Pvt. Ltd.</td>
     <td class="tg-zef7">Intern (Data Analysis)</td>
     <td class="tg-zef7">10 July, 2018</td>
     <td class="tg-zef7">9 October, 2018</td>
-    <td class="tg-zef7">3 months</td>
   </tr>
   <tr>
     <td class="tg-wz43">SGGS IET</td>
     <td class="tg-wz43">Intern (CVPR)</td>
     <td class="tg-wz43">22nd June, 2015</td>
     <td class="tg-wz43">10th July, 2015</td>
-    <td class="tg-wz43">3 weeks</td>
   </tr>
 </tbody>
 </table>

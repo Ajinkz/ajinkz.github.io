@@ -189,7 +189,7 @@
 </tbody>
 </table>
 
-
 ---
-<img src="https://hitcounternitratine.pythonanywhere.com/count/tag.svg" alt="Hits">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ajinkz.ajinkz.github.io)
 

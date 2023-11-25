@@ -191,5 +191,5 @@
 
 
 ---
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAjinkz%2Fajinkz.github.io%2Fhit-counter" alt="Hits">
+<img src="https://hitcounternitratine.pythonanywhere.com/count/tag.svg" alt="Hits">
 

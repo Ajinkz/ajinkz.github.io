@@ -48,7 +48,6 @@
 ---
 [House Price Prediction Dashboard](https://github.com/Ajinkz/hpp-dashboard)
 > Considering various features of house sale data, we build a predictive model using Gradient boosted regressor, which can estimate price of house.
-[Dashboard link](https://hpp-dash.herokuapp.com/)
 <iframe width="560" height="315" src="/images/complete_dash.mp4" frameborder="2" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---

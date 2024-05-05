@@ -14,17 +14,15 @@
 ### About me
 
 #### Responsibilities
-- 4+ years of experiences as Software Engineer/Python developer
-- Working on projects mainly dealing with AI/ML/Data Science/Analytics
+- 5+ years of experiences as Software Engineer/Python developer
+- Working on projects mainly dealing with Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools
 - Deploying the model in the cloud, hosting web app for user interaction using Flask
 - Creating demonstrative POCs for ML models
-- Currently exploring knowledge over Deep learning and building end-to-end ML pipeline
 
 #### IT Skills
-- Programming - Python, R
-- OS - Windows, Linux(Ubuntu, Centos )
+- Programming - Python
 - Database Knowledge of SQL along with joins, subqueries, views, 
 - NoSQL database like MongoDB, Cosmos DB
 - Search engine Elasticsearch
@@ -35,7 +33,7 @@
 - Web Development - Flask, Dash, Django, Streamlit
 - Cloud Computing - Basic services & deployment of models on AWS, Azure stack: Azure function, azure devops
 - Project methodology- Agile, Kanban
-- Version control - Github, Bit bucket
+- Version control - Github
 - Tools/IDE - Jupyter lab/notebook, VS Code, Sublime, Postman
 
 ---

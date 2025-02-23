@@ -111,40 +111,40 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-pbhq">Organisation</th>
     <th class="tg-pbhq">Position held</th>
+    <th class="tg-pbhq">Organisation</th>
     <th class="tg-pbhq">From</th>
     <th class="tg-pbhq">To</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wz43">Tata Consultancy Services</td>
     <td class="tg-wz43">Backend Developer</td>
+    <td class="tg-wz43">TCS</td>
     <td class="tg-wz43">March, 2022 onwards</td>
     <td class="tg-wz43"> - </td>
   </tr>
   <tr>
-    <td class="tg-wz43">S G Analytics Pvt. Ltd.</td>
     <td class="tg-wz43">Data Engineer</td>
+    <td class="tg-wz43">SG Analytics</td>
     <td class="tg-wz43">May, 2021</td>
     <td class="tg-wz43">February, 2022</td>
   </tr>
   <tr>
-    <td class="tg-wz43">Infogen-Labs Pvt. Ltd.</td>
-    <td class="tg-wz43">Sr. Software Engineer (AI domain)</td>
+    <td class="tg-wz43">Software Engineer</td>
+    <td class="tg-wz43">Infogen-Labs</td>
     <td class="tg-wz43">October, 2018</td>
     <td class="tg-wz43">April, 2021</td>
   </tr>
   <tr>
-    <td class="tg-zef7">Vuclip India Pvt. Ltd.</td>
-    <td class="tg-zef7">Intern (Data Analysis)</td>
+    <td class="tg-zef7">Data Analyst Intern</td>
+    <td class="tg-zef7">Vuclip India</td>
     <td class="tg-zef7">10 July, 2018</td>
     <td class="tg-zef7">9 October, 2018</td>
   </tr>
   <tr>
+    <td class="tg-wz43">CVPR Intern</td>
     <td class="tg-wz43">SGGS IET</td>
-    <td class="tg-wz43">Intern (CVPR)</td>
     <td class="tg-wz43">22nd June, 2015</td>
     <td class="tg-wz43">10th July, 2015</td>
   </tr>
@@ -188,37 +188,3 @@
 </table>
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
-</head>
-<body>
-<div id="myData"></div>
-<script type="text/javascript">
-    fetch('resume.json')
-        .then(function (response) {
-            return response.json();
-        })
-        .then(function (data) {
-            appendData(data);
-        })
-        .catch(function (err) {
-            console.log('error: ' + err);
-        });
-
-    function appendData(data) {
-        let mainContainer = document.getElementById("myData");
-        for (let i = 0; i < data.length; i++) {
-            let div = document.createElement("div");
-            div.innerHTML = 'Name: ' + data[i].firstName + ' ' + data[i].lastName;
-            mainContainer.appendChild(div);
-        }
-    }
-</script>
-</body>
-</html>
-

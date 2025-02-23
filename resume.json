@@ -1,0 +1,52 @@
+{
+	"name": [{"first_name":"Ajinkya"} , 
+		     {"last_name":"Pathak"}],
+	"contact":[{"type":"mobile", "value": xxxxxxxxx},
+			  {"type":"email", "value": "ajinkz@gmail.com"},
+			  {"type":"linkedin", "value": ""},
+			  {"type":"website", "value": ""}],
+	"summary": "Being a Python Developer with 6 years of hands-on experience in project development, data analysis, and cloud computing. Skilled in Python, SQL, MongoDB, AWS, AI and data science, with a strong ability to design, build, and maintain scalable, efficient systems. Adept at extracting valuable insights from large datasets and optimizing processes through automation and advanced analytics. With a proven track record of delivering high-quality solutions in dynamic environments, deep understanding of data pipelines, ETL processes, and cloud infrastructure, and seeking to leverage expertise in Python development and data engineering to contribute to innovative, data-driven projects.",
+
+	"experiences": [{"role": "Intern", "company": "SGGS IET CVPR Lab", "location": "Nanded", "duration": "June 2015 - July 2015"},
+					{"role": "Data Analyst Intern", "company": "Vuclip India", "location": "Pune", "duration":"July 2018 - Oct 2018"},
+					{"role": "Software Engineer", "company": "Infogen Labs", "location": "Pune", "duration":"Oct 2018 - April 2021"}
+					{"role": "Data Engineer", "company": "SG Analytics", "location": "Pune", "duration":"May 2021 - Feb 2022"}
+					{"role": "Backend Developer/Data Engineer", "company": "TCS", "location": "Pune", "duration":"Mar 2022 onwards"}],
+	"education": [{"institute": "Know-IT, CDAC, Pune", "cousre_name": "Post Graduate Diploma", 
+					"specialization": "Big Data Analytics", "year of completion": "Feb 2018", "grade": "A"},
+					{"institute": "SSBT’s COET, Jalgaon", "cousre_name": "Bachelor of Engineering", 
+					"specialization": "Information Technology", "year of completion": "July 2017", "grade": "CGPA 7.04"}],
+// 	Courses/Training
+// Google IT Automation with Python
+// Getting Started with AWS Machine Learning
+// Introduction to PySpark, Datacamp
+// Rasa Developer Certification, Rasa
+// Data Engineer Path in Python, Dataquest
+// Data Science Orientation, Microsoft & Edx
+// Machine learning Masters, Ineuron.ai
+
+
+
+	"projects": [{"name": "KYT Portal", "technology_used": "Python, Azure, AWS, Cosmos DB, MongoDB", 
+					"description": "Build API to bring the required data from container and to populate the KYT portal" ,
+					"contribution": "Create API for KYT site, write script for data manipulation, migrating from azure to aws, cosmos to mongo", "company": "TCS"},
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""},
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""}
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""},
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""},
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""}
+				{"name": "", "technology_used": "", "description": "", "contribution": "", "company": ""}
+
+],
+	"technical_skills": [],
+	"courses": [{"name": "","platform": ""}, 
+	{"name": "","platform": ""}, 
+{"name": "","platform": ""}, 
+{"name": "","platform": ""}, 
+{"name": "","platform": ""},
+	{"name": "","platform": ""}], 
+	"achievements": [{"name": "DIT Award for valuable contribution to the project", "date":"Dec 2023"},
+					{"name": "Selected for onsite visit for client meet-up", "date":"April 2024"},
+					{"name": "Certificate of achievement for remarkable project deliveries", "date":"Sep 2024"}],
+	"other_details": [] 
+}

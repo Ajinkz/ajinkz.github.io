@@ -14,7 +14,7 @@
 ### About me
 
 #### Responsibilities
-- 6+ years of experiences as Software Engineer/Python developer
+- Almost 7 years of experiences as Software Engineer/Python developer
 - Working on projects mainly dealing with Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools
@@ -39,6 +39,10 @@
 ---
 
 ### Projects
+
+[KYT Portal]
+> Build API to bring the required data from container and to populate the KYT portal. Created API for KYT site, written script for data manipulation and migrated from azure to aws, cosmos to mongo DB
+
 
 [Music Time plugin for Sublime Text](https://github.com/swdotcom/swdc-sublime-music-time)
 > Music Time is a plugin that discovers the most productive music to listen to as you code. It will recommend the songs using AI, and will provide control of Spotify player to the developer through the editor only
@@ -119,7 +123,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wz43">Backend Developer</td>
+    <td class="tg-wz43">Python Developer</td>
     <td class="tg-wz43">TCS</td>
     <td class="tg-wz43">March, 2022 onwards</td>
     <td class="tg-wz43"> - </td>

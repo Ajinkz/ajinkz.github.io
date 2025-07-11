@@ -14,7 +14,7 @@
 ### About me
 
 #### Responsibilities
-- 6+ years of experiences as Software Engineer/Python developer
+- 7 years of experiences as Software Engineer/Python developer
 - Working on projects mainly dealing with Data Science/Analytics
 - Perform EDA on client data, documenting the observation
 - Building dashboard using Dash & plotly BI tools
@@ -119,7 +119,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wz43">Backend Developer</td>
+    <td class="tg-wz43">Python Developer</td>
     <td class="tg-wz43">TCS</td>
     <td class="tg-wz43">March, 2022 onwards</td>
     <td class="tg-wz43"> - </td>
